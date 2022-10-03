@@ -25,7 +25,7 @@
 
 - I use the pen tool to draw straight lines to create the image of the water.
 
-![Logo 3](assets/images/logo3.png)
+![Logo 3](assets/images/logo-3.png)
 
 - And then I came up with the color choice and made this. I went for a vibrant color palette. It gives the logo meaning of sunrise.
 
