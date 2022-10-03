@@ -1,0 +1,72 @@
+body {
+  background-color: #1E1E1E;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+  max-width: 100%;
+  min-height: 100vh;
+}
+
+div {
+  margin: 50px;
+}
+
+p {
+  color: #fff;
+  font-size: 24px;
+  text-align: center;
+}
+
+.logo {
+  width: 250px;
+  height: 250px;
+}
+
+/* Colored */
+.sun {
+  fill: #ff2D00;
+}
+
+.line-1 {
+  stroke: #FF4D00;
+  stroke-width: 200;
+  stroke-linecap: round;
+}
+
+.line-2 {
+  stroke: #FF6700;
+  stroke-width: 200;
+  stroke-linecap: round;
+}
+
+.line-3 {
+  stroke: #FF8100;
+  stroke-width: 200;
+  stroke-linecap: round;
+}
+
+.line-4 {
+  stroke:#FFA700;
+  stroke-width:200;
+  stroke-linecap:round;
+}
+
+.line-5 {
+  stroke:#FEC135;
+  stroke-width:200;
+  stroke-linecap:round;
+}
+
+.line-text {
+  stroke:#FCD116;
+  stroke-width:50;
+  stroke-linecap:round;
+}
+
+.logo-text {
+  fill:#FCD116;
+}
